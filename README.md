@@ -1,3 +1,3 @@
 ## Learning Web Development
 ___
-Learning web development, mostly frontend with Astro as a JS framework. 
+Baseline frontend web development
